@@ -34,7 +34,8 @@ This is a responsive and modern portfolio website built to present:
 
 ## 📚 Currently Learning
 
-- AWS Cloud Computing Program (focus on EC2, S3, Lambda, VPC, IAM, and architecture best practices)
+- AWS Cloud Computing Program
+- Pentration Testing
 
 ## 📬 Contact
 
