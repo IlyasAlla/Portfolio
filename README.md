@@ -40,8 +40,8 @@ This is a responsive and modern portfolio website built to present:
 ## 📬 Contact
 
 - 💼 [LinkedIn](https://linkedin.com/in/ilyas-alla)
-- 📱 [WhatsApp](https://wa.me/212612345678)
-- 💻 [GitHub](https://github.com/yourusername)
+- 📱 [WhatsApp](https://wa.me/212770420460)
+- 💻 [GitHub](https://github.com/IlyasAlla)
 
 ## 📄 License
 
