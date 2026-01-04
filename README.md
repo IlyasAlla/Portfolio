@@ -34,7 +34,6 @@ This is a responsive and modern portfolio website built to present:
 
 ## 📚 Currently Learning
 
-- AWS Cloud Computing Program
 - Pentration Testing
 
 ## 📬 Contact
