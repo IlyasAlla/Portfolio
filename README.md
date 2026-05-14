@@ -35,6 +35,7 @@ This is a responsive and modern portfolio website built to present:
 ## 📚 Currently Learning
 
 - Pentration Testing
+- AI Workflow Automation
 
 ## 📬 Contact
 
